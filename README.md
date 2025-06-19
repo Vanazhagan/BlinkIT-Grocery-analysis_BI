@@ -2,6 +2,9 @@
 
 This project presents a detailed and interactive **Sales Analytics Dashboard** for **Blinkit**, a rapid grocery delivery service in India. Built with **Microsoft Power BI**, this dashboard helps visualize key insights like total sales, outlet performance, product category breakdown, and outlet tier comparison.
 
+![BlinkIT Analysis 1](https://github.com/Vanazhagan/BlinkIT-Grocery-analysis_BI/blob/main/BlinkIT%20Grocery%20visual.png)  
+
+
 ---
 
 ## 📁 Project Overview
